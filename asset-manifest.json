@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/b2brain/static/css/main.f4d4cabc.css",
+    "main.js": "/b2brain/static/js/main.41e5f679.js",
+    "static/media/top.png": "/b2brain/static/media/top.9e5eafe4d8a77093afd2.png",
+    "static/media/bottom.png": "/b2brain/static/media/bottom.3b34e798026fec068cd4.png",
+    "static/media/mid.png": "/b2brain/static/media/mid.f6b798e12afc7fcadbce.png",
+    "index.html": "/b2brain/index.html",
+    "main.f4d4cabc.css.map": "/b2brain/static/css/main.f4d4cabc.css.map",
+    "main.41e5f679.js.map": "/b2brain/static/js/main.41e5f679.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4d4cabc.css",
+    "static/js/main.41e5f679.js"
+  ]
+}
