@@ -1,0 +1,25 @@
+
+
+body{
+    box-sizing: border-box;
+}
+
+h4{
+    font-size: calc(10px + 1vw) !important;
+}
+
+h6{
+    font-size: calc(7px + 0.7vw) !important;
+}
+
+@media screen and (max-width:1150px) {
+    div{
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (max-width:900px) {
+.App, body, #root{
+     width: 900px;
+    }
+ }
